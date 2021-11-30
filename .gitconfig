@@ -1,0 +1,8 @@
+[user]
+	email = jon.crawley@jumpcloud.com
+	name = Jon Crawley
+[url "git@github.com:"]
+	insteadOf = https://github.com/
+[protocol "keybase"]
+	allow = alway
+	allow = always
